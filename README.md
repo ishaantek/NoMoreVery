@@ -7,7 +7,9 @@ Combine "very" with a simple adjective to get a more concise adjective 🏆
 
 👉 Check out the [live demo](https://no-more-very.ishaantek.com)
 
-This project was made for my 7th grade English teacher, who hated students using the word "very" in their writing. If you are a writer struggling with this, this website should be "very helpful" for you!
+Write concisely by substituting "very" + "adjective" with a more concise adjective that has the spirit of very contained within it.
+
+This project was made for my 7th grade English teacher, who hated students using the word "very" in their writing. 
 
 Made by [Ishaan Garg](https://twitter.com/ishaantek)
 
