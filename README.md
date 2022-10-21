@@ -1,6 +1,6 @@
 # NoMoreVery
 
-![Preview](preview.png)
+![Preview](preview-img.png)
 <br>
 <br>
 Combine "very" with a simple adjective to get a more concise adjective 🏆
